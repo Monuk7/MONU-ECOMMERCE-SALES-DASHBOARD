@@ -1,4 +1,4 @@
-# Madhav-ECOMMERCE-SALES-DASHBOARD
+# Monu-ECOMMERCE-SALES-DASHBOARD
 Power BI Deshboard
 Project Objective:
 Created interactive dashboard to track and analyze online sales data
